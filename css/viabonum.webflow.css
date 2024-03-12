@@ -83,7 +83,7 @@ p {
 .container-wrap {
   width: 100%;
   height: 100vh;
-  min-height: 1310px;
+  min-height: 1070px;
   background-image: radial-gradient(circle closest-corner at 100% 100%, rgba(0, 106, 255, .13), rgba(0, 0, 0, 0) 42%);
   padding-left: 30px;
   padding-right: 30px;
