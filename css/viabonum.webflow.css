@@ -1134,6 +1134,10 @@ p {
   display: none;
 }
 
+.html-embed-5.block {
+  display: block;
+}
+
 .form-block {
   flex-flow: row;
   display: flex;
